@@ -1,0 +1,3 @@
+this is my first note,
+
+and i want to access this by node.js

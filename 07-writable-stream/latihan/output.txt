@@ -1,0 +1,15 @@
+Sebelum mengakh
+iri modul ini, 
+mari kita latih
+an lagi ya. Kar
+ena Anda sudah 
+belajar teknik 
+stream baik rea
+dable stream at
+aupun writable 
+stream, kini sa
+atnya kita prak
+tikkan apa yang
+ sudah Anda pel
+ajari.
+null

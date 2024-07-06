@@ -1,0 +1,1 @@
+Sebelum mengakhiri modul ini, mari kita latihan lagi ya. Karena Anda sudah belajar teknik stream baik readable stream ataupun writable stream, kini saatnya kita praktikkan apa yang sudah Anda pelajari.
